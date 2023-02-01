@@ -1,5 +1,5 @@
 # PartOfASong
-![image](https://github.com/AlexaTesla/PartOfASong/blob/main/Music.jfif)
+![image](https://github.com/AlexaTesla/PartOfASong/blob/main/colorful.jpg)
 
 ***Short description:***
 
